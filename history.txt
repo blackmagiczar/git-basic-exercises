@@ -1,0 +1,309 @@
+    1  git config --list --show-origin
+    2  git config --global user.name "Siboniso Malapane"
+    3  git config -- global user.email innocentsiboniso6@gmail.com
+    4  git config --list
+    5  git config user.name
+    6  git config user.email
+    7  dir
+    8  cd Desktop/
+    9  dr
+   10  dir
+   11  cd Umuzi/
+   12  dir
+   13  clean
+   14  clear
+   15  cd CodingChallenges/
+   16  dir
+   17  mkdir test
+   18  dir
+   19  cd test
+   20  git init
+   21  dir
+   22  dir
+   23  dir
+   24  git add testFile.md 
+   25  git add LICENCE
+   26  git add LICENCE MIT
+   27  git commit -m 'Initial project version'
+   28  git config --global user.email innocentsiboniso6@gmail.com
+   29  git commit -m 'Initial project version'
+   30  git status
+   31  git config
+   32  git config -user.name
+   33  git config --user.name
+   34  clear
+   35  git config user.name
+   36  git config user.email
+   37  ls
+   38  git push
+   39  git remote add origin https://github.com/blackmagiczar/gitTest
+   40  git push origin master
+   41  git push origin main
+   42  git push origin main
+   43  git pull
+   44  git push origin main
+   45  clear
+   46  git config user.name
+   47  git config user.email
+   48  git status
+   49  git add testFile.md 
+   50  git status
+   51  git add testFile.md 
+   52  git status
+   53  git commit -m 'Initial project version'
+   54  git push origin main
+   55  git push origin main fast-forwards
+   56  git status
+   57  git status
+   58  help git commit
+   59  man git commit
+   60  git man commit
+   61  git --help
+   62  git --help commit
+   63  git commit --help
+   64  git push --help
+   65  git push
+   66  git push origin main fast-forwards
+   67  git push origin main
+   68  git -f push origin mai
+   69  git pull origin master
+   70  git pull origin main
+   71  git clean
+   72  git clean -i
+   73  git pull origin main
+   74  git clone https://github.com/blackmagiczar/gitTest
+   75  git status
+   76  git add -a
+   77  git add testFile.md 
+   78  git commit -m 'Testin Message'
+   79  git pull origin main
+   80  git pull origin 
+   81  git push origin main
+   82  git branch first
+   83  git checkout first
+   84  git add testFile.md 
+   85  git commit -f 'commiting branch'
+   86  git commit -m 'commiting branch'
+   87  git commit -m 'commiting branch'
+   88  git pull origin main
+   89  git push origin first
+   90  git pull origin main
+   91  git pull origin first
+   92  git checkout main
+   93  git merge first
+   94  git status
+   95  git add testFile.md 
+   96  git status
+   97  git commit -m 'commiting branch'
+   98  git merge first
+   99  git checkout main
+  100  git checkout first
+  101  git pull origin main
+  102  git push origin main
+  103  cd gitTest/
+  104  git add testFile.md 
+  105  git commit -m 'jr;g'
+  106  git push origin main
+  107  pwd
+  108  ls
+  109  cd Desktop/Umuzi/CodingChallenges/
+  110  ls
+  111  git clone https://github.com/blackmagiczar/hello-world.git
+  112  ls
+  113  cd hello-world/
+  114  ls
+  115  ls
+  116  git branch feature
+  117  ls
+  118  git status
+  119  git checkout feature 
+  120  ls
+  121  git checkout main
+  122  git branch readme-edits
+  123  git checkout readme-edits 
+  124  ls
+  125  code README.md 
+  126  ls
+  127  git status
+  128  git add  README.md 
+  129  git status
+  130  git commit -m 'added more text to readme'
+  131  git pull origin main
+  132  git push origin readme-edits 
+  133  git checkout main
+  134  git merge readme-edits 
+  135  pwd
+  136  cd ..
+  137  cd ..
+  138  ls
+  139  mkdir CodingChallenges2
+  140  cd CodingChallenges2
+  141  ls
+  142  git clone https://github.com/Umuzi-org/Siboniso-Malapane-219-level-1-programming-katas-javascript.git
+  143  ls
+  144  cd Siboniso-Malapane-219-level-1-programming-katas-javascript/
+  145  ls
+  146  git checkout main
+  147  git pull
+  148  git checkout -b task/1
+  149  code task1.js
+  150  git status
+  151  git add task1.js 
+  152  git status
+  153  git commit -m "Task 1 done, Added tests for negative and non-integer input"
+  154  git status
+  155  git pull origin main
+  156  git push origin main
+  157  git status
+  158  git checkout main
+  159  ls
+  160  git checkout task/1 
+  161  ls
+  162  git checkout main
+  163  git pull
+  164  ls
+  165  git checkout task/1 
+  166  git status
+  167  git push origin task/1 
+  168  ls
+  169  git checkout main
+  170  ls
+  171  git pull
+  172  git checkout -b task/2
+  173  touch task2.js
+  174  git checkout -b task/2
+  175  git checkout task/2
+  176  git status
+  177  git add task2.js 
+  178  git add task2.js 
+  179  git status
+  180  git status
+  181  git add task2.js 
+  182  git commit -m 'Task 2 Done'
+  183  git status
+  184  git checkout main
+  185  git pull
+  186  git checkout task/2
+  187  git status
+  188  git push origin main
+  189  git checkout main
+  190  git pull origin main
+  191  git push origin task/2
+  192  git push origin task/2
+  193  ls
+  194  git checkout -b task/3
+  195  code task3.js
+  196  cd Desktop/Umuzi/CodingChallenges2
+  197  ls
+  198  cd Siboniso-Malapane-219-level-1-programming-katas-javascript/
+  199  ls
+  200  git checkout task/1
+  201  ls
+  202  code task1.js 
+  203  git status
+  204  git add task1.js 
+  205  git commit -m 'Task 1'
+  206  git push origin task/1
+  207  git status
+  208  git add task1.js 
+  209  git commit -m 'Task 1, re-Installed Prettier'
+  210  git push origin task/1
+  211  cd ..
+  212  ls
+  213  cd ..
+  214  ls
+  215  cd 'how repos work'/
+  216  ls
+  217  cd Siboniso-Malapane-606-tilde-project-tutorial-how-repo-projects-work-/
+  218  ls
+  219  git status
+  220  git pull
+  221  git pull blackmagiczar-patch1
+  222  git pull main
+  223  code important.md 
+  224  git status
+  225  git commit -m 'Adding people to Pull Requests'
+  226  git add important.md 
+  227  git commit -m 'Adding people to Pull Requests'
+  228  git push origin blackmagiczar-patch1 
+  229  git add important.md 
+  230  git commit -m 'Adding people to Pull Requests'
+  231  git push origin blackmagiczar-patch1 
+  232  cd ../..
+  233  cd git-basic-exercises/
+  234  git init
+  235  ls -a
+  236  git status
+  237  touch README.m
+  238  rm README.m 
+  239  git status
+  240  ls -a
+  241  touch README.md
+  242  ls -a
+  243  git status
+  244  git log
+  245  git add README.md 
+  246  git status
+  247  git restore --staged README.md 
+  248  git restore README.md 
+  249  git status
+  250  git rm --cached README.md 
+  251  git status
+  252  git add README.md 
+  253  git commit -m "initial commit"
+  254  git log
+  255  cat
+  256  cat --help
+  257  nano README.md 
+  258  ls -a
+  259  git status
+  260  cat README.md 
+  261  nano README.md 
+  262  git status
+  263  git add README.md 
+  264  git add README.md 
+  265  git commit -m "second commit"
+  266  nano README.md 
+  267  git commit -m "third commit"
+  268  git add README.md 
+  269  git add README.md 
+  270  git commit -m "third commit"
+  271  git log
+  272  q
+  273  git checkout f34a502ee8690ec196145d8289cd3b8b9b361da6
+  274  cat README.md 
+  275  git checkout main
+  276  cat README.md 
+  277  cd Desktop/Umuzi/
+  278  ls
+  279  cd 'git
+cd 'git-basic-exercises/
+  280  ls
+  281  cd 'git-basic-exercises/
+ls
+  282  cd 'git-basic-exercises
+exit
+  283  ls
+  284  cd git-basic-exercises/
+  285  ls
+  286  git branch
+  287  git branch milkshake-flavours
+  288  git branch
+  289  git checkout milkshake-flavours 
+  290  git branch
+  291  nano milkshakes.md
+  292  git status
+  293  git add milkshakes.md 
+  294  git add milkshakes.md 
+  295  git commit -m "Adding initial flavours"
+  296  git status
+  297  git branch
+  298  git status
+  299  ls
+  300  git checkout main
+  301  git status
+  302  ls
+  303   git branch history
+  304  git branch
+  305  git checkout history 
+  306  history > history.txt

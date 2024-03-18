@@ -1,5 +1,4 @@
-CHocolate
+Chocolate
 Vanilla
-Skrawberry
+Strawberry
 Banana
-
